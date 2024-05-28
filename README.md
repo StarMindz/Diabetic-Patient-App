@@ -1,6 +1,16 @@
-# Welcome to your Expo app 👋
+# Diabetic Patient App 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+
+## Built With
+
+- Major languages
+- Frameworks
+- Technologies used
+
+## Live Demo (if available)
+
+[Live Demo Link](https://livedemo.com)
 
 ## Get started
 
@@ -35,16 +45,36 @@ npm run reset-project
 
 This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
 
-## Learn more
+## Authors
 
-To learn more about developing your project with Expo, look at the following resources:
+👤 **Author1**
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+- GitHub: [@githubhandle](https://github.com/githubhandle)
+- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
-## Join the community
+👤 **Author2**
 
-Join our community of developers creating universal apps.
+- GitHub: [@githubhandle](https://github.com/githubhandle)
+- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Hat tip to anyone whose code was used
+- Inspiration
+- etc
+
+## 📝 License
+
+This project is [MIT](./MIT.md) licensed.
